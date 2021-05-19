@@ -1,0 +1,10 @@
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\bin\Debug\Median Problem.exe.config
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\bin\Debug\Median Problem.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\bin\Debug\Median Problem.pdb
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\obj\Debug\Median Problem.csprojAssemblyReference.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\obj\Debug\Median_Problem.Form1.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\obj\Debug\Median_Problem.Properties.Resources.resources
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\obj\Debug\Median Problem.csproj.GenerateResource.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\obj\Debug\Median Problem.csproj.CoreCompileInputs.cache
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\obj\Debug\Median Problem.exe
+E:\Visual Studio Projects\C# Intermediate Programming\Median Problem\obj\Debug\Median Problem.pdb
